@@ -156,6 +156,50 @@ Then just ask Claude:
 
 <br />
 
+## Examples
+
+> Full-featured applications that show what you can build with the LVNG API. Each example is a standalone project you can run.
+
+<table>
+<tr>
+<td width="60" align="center">&#128269;</td>
+<td width="220"><strong><a href="examples/research-pipeline">Research Pipeline</a></strong></td>
+<td>Multi-source research automation — web search + knowledge graph + AI synthesis into a formatted report</td>
+</tr>
+
+<tr>
+<td align="center">&#129302;</td>
+<td><strong><a href="examples/multi-agent-team">Multi-Agent Team</a></strong></td>
+<td>Coordinated agent collaboration — researcher + analyst + lead synthesize a business recommendation</td>
+</tr>
+
+<tr>
+<td align="center">&#128218;</td>
+<td><strong><a href="examples/knowledge-rag">Knowledge RAG</a></strong></td>
+<td>Retrieval-augmented generation — ingest docs, search for context, answer questions with sources</td>
+</tr>
+
+<tr>
+<td align="center">&#128202;</td>
+<td><strong><a href="examples/automated-reports">Automated Reports</a></strong></td>
+<td>Scheduled report generation — pull metrics, analyze trends, produce weekly/monthly business reports</td>
+</tr>
+
+<tr>
+<td align="center">&#128172;</td>
+<td><strong><a href="examples/discord-integration">Discord Bot</a></strong></td>
+<td>Discord slash commands that trigger LVNG agents, workflows, and knowledge search from any channel</td>
+</tr>
+
+<tr>
+<td align="center">&#9997;&#65039;</td>
+<td><strong><a href="examples/content-pipeline">Content Pipeline</a></strong></td>
+<td>Multi-stage content creation — writer agent + reviewer + brand voice editor for publish-ready content</td>
+</tr>
+</table>
+
+<br />
+
 ## API Key Format
 
 ```
